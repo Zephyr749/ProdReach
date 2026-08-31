@@ -12,6 +12,10 @@ class Settings(BaseSettings):
     model_name: str
     openai_api_base_url: str
     
+    # database config
+    mongo_uri: str
+    db_name: str = "prodreach"
+    
     
     
 app_settings= Settings()

@@ -1,10 +1,29 @@
 import uvicorn
 from fastapi import FastAPI
-from app.routers import requirements
+from app.routers import requirements, products, recommendations
+from app.core import db
+from contextlib import asynccontextmanager
+import logging
 
-app= FastAPI(title= "ProdReach")
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s",
+)
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    await db.init_db()
+    yield
+
+app = FastAPI(title= "ProdReach", lifespan= lifespan)
+
 
 app.include_router(requirements.router)
+app.include_router(products.router)
+app.include_router(recommendations.router)
 
 @app.get("/")
 def get_root():

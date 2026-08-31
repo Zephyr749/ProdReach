@@ -22,6 +22,13 @@ Rules:
 
 4. CATEGORY & USE CASES:
    - Extract the product category when possible (e.g., laptop, smartphone, headphones, monitor).
+   - Divide the categories within these categories only [
+      'headphones', 'keyboard',
+      'laptop',     'monitor',
+      'mouse',      'router',
+      'smartphone', 'ssd',
+      'tablet',     'tv'
+   ]
    - Extract the user's explicit use cases (e.g., programming, gaming, video editing, office work).
 
 5. BUDGET & INDIAN CURRENCY NORMALIZATION:
@@ -31,8 +38,14 @@ Rules:
      * "Grand" = 1,000 (e.g., "30 grand" -> 30000)
    - Default currency to "INR" unless another currency is explicitly mentioned.
 
-6. THINGS TO AVOID:
-   - Extract things the user explicitly wants to avoid or dislikes into the avoid list (e.g., "no gaming aesthetics", "avoid Intel", "not too heavy").
+
+6. THINGS TO AVOID (Negative Constraints & Exclusions):
+   Extract explicit user dislikes, rejected brands, unwanted features, or dealbreakers into the `avoid` list as concise, searchable keywords or phrases.
+   - Brand Exclusions: ("no Samsung", "don't want Dell") -> ["Samsung", "Dell"]
+   - Sub-category / Form Factor: ("no gaming laptops", "no bulky phones") -> ["gaming laptops", "bulky design"]
+   - Hardware / Component: ("avoid Intel", "no micro-USB", "no LCD") -> ["Intel processor", "micro-USB", "LCD display"]
+   - Aesthetics & Feel: ("no loud clicky switches", "no RGB lighting") -> ["clicky switches", "RGB lighting"]
+   - Normalize the negative target into a clean noun phrase. Do NOT put positive requirements here.
 """
 
 def extract_requirements(query: str) -> ProdRequirements:
@@ -52,5 +65,4 @@ def extract_requirements(query: str) -> ProdRequirements:
         # temperature=0.0
     )
     
-    print("Extraction output", response.choices[0].message.content)
     return response.choices[0].message.parsed
