@@ -25,14 +25,14 @@ async def compare_candidates(
     query: str,
     requirements: ProdRequirements,
     candidates: List[Product]
-) -> RecommendationResponse:
+) -> RecommendationResponse | None:
     if not candidates:
         raise ValueError("No products found")
     
     # Prepare compact payload for LLM
     candidate_context = [
         {
-            "id": str(p.id),
+            "id": p.product_id,
             "name": p.name,
             "brand": p.brand,
             "price_inr": p.price_inr,

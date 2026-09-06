@@ -48,7 +48,7 @@ Rules:
    - Normalize the negative target into a clean noun phrase. Do NOT put positive requirements here.
 """
 
-def extract_requirements(query: str) -> ProdRequirements:
+def extract_requirements(query: str) -> ProdRequirements | None:
     response= client.chat.completions.parse(
         model=app_settings.model_name,
         messages=[

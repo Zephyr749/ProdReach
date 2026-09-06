@@ -11,6 +11,7 @@ class Settings(BaseSettings):
     openai_api_key: str
     model_name: str
     openai_api_base_url: str
+    text_embedding_model_name: str
     
     # database config
     mongo_uri: str

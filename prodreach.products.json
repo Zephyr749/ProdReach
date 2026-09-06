@@ -1,0 +1,3955 @@
+[{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ba"
+  },
+  "id": "sma-001",
+  "category": "smartphone",
+  "brand": "Samsung",
+  "name": "Samsung Galaxy A36 5G",
+  "price_inr": 33999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 6.7,
+    "refresh_hz": 120,
+    "battery_mah": 5000,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 6",
+    "nfc": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 3.5,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 3,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361bb"
+  },
+  "id": "sma-002",
+  "category": "smartphone",
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 5",
+  "price_inr": 31999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 6.83,
+    "refresh_hz": 144,
+    "battery_mah": 6800,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 6",
+    "nfc": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 4,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 3.5,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361bc"
+  },
+  "id": "sma-003",
+  "category": "smartphone",
+  "brand": "Nothing",
+  "name": "Nothing Phone (3a)",
+  "price_inr": 27999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 6.77,
+    "refresh_hz": 120,
+    "battery_mah": 5000,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 6",
+    "nfc": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 4,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 3,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361bd"
+  },
+  "id": "sma-004",
+  "category": "smartphone",
+  "brand": "Motorola",
+  "name": "Motorola Edge 60 Fusion",
+  "price_inr": 24999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 6.67,
+    "refresh_hz": 120,
+    "battery_mah": 5500,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 6",
+    "nfc": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 5,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 4.5,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361be"
+  },
+  "id": "sma-005",
+  "category": "smartphone",
+  "brand": "Xiaomi",
+  "name": "Redmi Note 14 Pro+",
+  "price_inr": 29999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 6.67,
+    "refresh_hz": 120,
+    "battery_mah": 6200,
+    "camera_mp": 200,
+    "wifi": "Wi-Fi 6",
+    "nfc": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 4.5,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 4,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361bf"
+  },
+  "id": "sma-006",
+  "category": "smartphone",
+  "brand": "iQOO",
+  "name": "iQOO Neo 10",
+  "price_inr": 33999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_in": 6.78,
+    "refresh_hz": 144,
+    "battery_mah": 7000,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 7",
+    "nfc": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 3.5,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 3,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c0"
+  },
+  "id": "sma-007",
+  "category": "smartphone",
+  "brand": "POCO",
+  "name": "POCO F7",
+  "price_inr": 32999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_in": 6.83,
+    "refresh_hz": 120,
+    "battery_mah": 7550,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 7",
+    "nfc": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 4,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 4.5,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c1"
+  },
+  "id": "sma-008",
+  "category": "smartphone",
+  "brand": "Realme",
+  "name": "Realme GT 7",
+  "price_inr": 44999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_in": 6.78,
+    "refresh_hz": 120,
+    "battery_mah": 7000,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 7",
+    "nfc": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 3.5,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 4.5,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c2"
+  },
+  "id": "sma-009",
+  "category": "smartphone",
+  "brand": "Vivo",
+  "name": "Vivo V50",
+  "price_inr": 34999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 6.77,
+    "refresh_hz": 120,
+    "battery_mah": 6000,
+    "camera_mp": 50,
+    "wifi": "Wi-Fi 6",
+    "nfc": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 5,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 4.5,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c3"
+  },
+  "id": "sma-010",
+  "category": "smartphone",
+  "brand": "Google",
+  "name": "Google Pixel 9a",
+  "price_inr": 49999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A mainstream smartphone aimed at Indian buyers, balancing performance, camera quality, battery life and everyday usability.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 6.3,
+    "refresh_hz": 120,
+    "battery_mah": 5100,
+    "camera_mp": 48,
+    "wifi": "Wi-Fi 6E",
+    "nfc": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Battery life is good for a full day of normal use, although heavy camera and gaming use drains it faster."
+    },
+    {
+      "rating": 4,
+      "text": "The display and general performance are strong for the price, but the software experience may not suit everyone."
+    },
+    {
+      "rating": 4,
+      "text": "Camera results are good in daylight; low-light performance is more mixed."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c4"
+  },
+  "id": "lap-001",
+  "category": "laptop",
+  "brand": "Lenovo",
+  "name": "Lenovo IdeaPad Slim 5 14",
+  "price_inr": 69990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Core Ultra 5",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_in": 14,
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "weight_kg": 1.46,
+    "usb_c_charging": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 4,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 3,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c5"
+  },
+  "id": "lap-002",
+  "category": "laptop",
+  "brand": "ASUS",
+  "name": "ASUS Vivobook 15 OLED",
+  "price_inr": 74990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Core Ultra 5",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_in": 15.6,
+    "resolution": "2880x1620",
+    "refresh_hz": 120,
+    "weight_kg": 1.7,
+    "usb_c_charging": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 5,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 4,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c6"
+  },
+  "id": "lap-003",
+  "category": "laptop",
+  "brand": "HP",
+  "name": "HP Pavilion Plus 14",
+  "price_inr": 79990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Core Ultra 5",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_in": 14,
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "weight_kg": 1.41,
+    "usb_c_charging": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 4,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 3.5,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c7"
+  },
+  "id": "lap-004",
+  "category": "laptop",
+  "brand": "Acer",
+  "name": "Acer Swift Go 14",
+  "price_inr": 72990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Core Ultra 5",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_in": 14,
+    "resolution": "2880x1800",
+    "refresh_hz": 90,
+    "weight_kg": 1.32,
+    "usb_c_charging": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 4,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 3,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c8"
+  },
+  "id": "lap-005",
+  "category": "laptop",
+  "brand": "Dell",
+  "name": "Dell Inspiron 14 Plus",
+  "price_inr": 84990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Core Ultra 7",
+    "ram_gb": 16,
+    "storage_gb": 1000,
+    "display_in": 14,
+    "resolution": "2560x1600",
+    "refresh_hz": 90,
+    "weight_kg": 1.6,
+    "usb_c_charging": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 4.5,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 3,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361c9"
+  },
+  "id": "lap-006",
+  "category": "laptop",
+  "brand": "Lenovo",
+  "name": "Lenovo LOQ 15",
+  "price_inr": 89990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Ryzen 7",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_in": 15.6,
+    "resolution": "1920x1080",
+    "refresh_hz": 144,
+    "weight_kg": 2.4,
+    "gpu": "RTX 4060",
+    "usb_c_charging": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 4,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 4.5,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ca"
+  },
+  "id": "lap-007",
+  "category": "laptop",
+  "brand": "ASUS",
+  "name": "ASUS TUF Gaming A15",
+  "price_inr": 94990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Ryzen 7",
+    "ram_gb": 16,
+    "storage_gb": 1000,
+    "display_in": 15.6,
+    "resolution": "1920x1080",
+    "refresh_hz": 144,
+    "weight_kg": 2.2,
+    "gpu": "RTX 4060",
+    "usb_c_charging": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 3.5,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 4,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361cb"
+  },
+  "id": "lap-008",
+  "category": "laptop",
+  "brand": "HP",
+  "name": "HP Victus 15",
+  "price_inr": 79990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Ryzen 7",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_in": 15.6,
+    "resolution": "1920x1080",
+    "refresh_hz": 144,
+    "weight_kg": 2.29,
+    "gpu": "RTX 4050",
+    "usb_c_charging": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 3.5,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 4,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361cc"
+  },
+  "id": "lap-009",
+  "category": "laptop",
+  "brand": "MSI",
+  "name": "MSI Modern 14",
+  "price_inr": 64990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Core Ultra 5",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_in": 14,
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "weight_kg": 1.5,
+    "usb_c_charging": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 4.5,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 4,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361cd"
+  },
+  "id": "lap-010",
+  "category": "laptop",
+  "brand": "Apple",
+  "name": "Apple MacBook Air 13 M4",
+  "price_inr": 99990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A laptop suited to Indian users looking for a balance of performance, portability, display quality and connectivity.",
+  "specifications": {
+    "cpu": "Apple M4",
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "display_in": 13.6,
+    "resolution": "2560x1664",
+    "refresh_hz": 60,
+    "weight_kg": 1.24,
+    "usb_c_charging": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Build quality is solid and performance is suitable for development and everyday workloads."
+    },
+    {
+      "rating": 4.5,
+      "text": "The display is a strong point, while sustained heavy workloads can make the chassis warm."
+    },
+    {
+      "rating": 4,
+      "text": "Port selection is useful, although buyers should check exactly which ports support charging or display output."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ce"
+  },
+  "id": "hea-001",
+  "category": "headphones",
+  "brand": "Sony",
+  "name": "Sony WH-1000XM6",
+  "price_inr": 39990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "over-ear",
+    "anc": true,
+    "battery_hours": 30,
+    "multipoint": true,
+    "codec": "LDAC",
+    "weight_g": 254
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 4,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 3,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361cf"
+  },
+  "id": "hea-002",
+  "category": "headphones",
+  "brand": "Bose",
+  "name": "Bose QuietComfort Ultra",
+  "price_inr": 35900,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "over-ear",
+    "anc": true,
+    "battery_hours": 24,
+    "multipoint": true,
+    "codec": "AAC",
+    "weight_g": 253
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 3.5,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d0"
+  },
+  "id": "hea-003",
+  "category": "headphones",
+  "brand": "Sennheiser",
+  "name": "Sennheiser Momentum 4",
+  "price_inr": 29990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "over-ear",
+    "anc": true,
+    "battery_hours": 60,
+    "multipoint": true,
+    "codec": "aptX Adaptive",
+    "weight_g": 293
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 3.5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 3.5,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d1"
+  },
+  "id": "hea-004",
+  "category": "headphones",
+  "brand": "JBL",
+  "name": "JBL Tour One M3",
+  "price_inr": 29999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "over-ear",
+    "anc": true,
+    "battery_hours": 50,
+    "multipoint": true,
+    "codec": "LDAC",
+    "weight_g": 278
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 4.5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 4,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d2"
+  },
+  "id": "hea-005",
+  "category": "headphones",
+  "brand": "Soundcore",
+  "name": "Anker Soundcore Space Q45",
+  "price_inr": 12999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "over-ear",
+    "anc": true,
+    "battery_hours": 50,
+    "multipoint": true,
+    "codec": "LDAC",
+    "weight_g": 295
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 4,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d3"
+  },
+  "id": "hea-006",
+  "category": "headphones",
+  "brand": "Sony",
+  "name": "Sony WH-CH720N",
+  "price_inr": 9990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "over-ear",
+    "anc": true,
+    "battery_hours": 35,
+    "multipoint": true,
+    "codec": "AAC",
+    "weight_g": 192
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 4,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 4,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d4"
+  },
+  "id": "hea-007",
+  "category": "headphones",
+  "brand": "Sennheiser",
+  "name": "Sennheiser Accentum Plus",
+  "price_inr": 14990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "over-ear",
+    "anc": true,
+    "battery_hours": 50,
+    "multipoint": true,
+    "codec": "aptX Adaptive",
+    "weight_g": 227
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 4,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d5"
+  },
+  "id": "hea-008",
+  "category": "headphones",
+  "brand": "OnePlus",
+  "name": "OnePlus Buds Pro 3",
+  "price_inr": 11999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "true-wireless",
+    "anc": true,
+    "battery_hours": 43,
+    "multipoint": true,
+    "codec": "LHDC",
+    "weight_g": 5.6
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 3,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d6"
+  },
+  "id": "hea-009",
+  "category": "headphones",
+  "brand": "Nothing",
+  "name": "Nothing Ear",
+  "price_inr": 8999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "true-wireless",
+    "anc": true,
+    "battery_hours": 40.5,
+    "multipoint": true,
+    "codec": "LDAC",
+    "weight_g": 4.6
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 3.5,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d7"
+  },
+  "id": "hea-010",
+  "category": "headphones",
+  "brand": "Realme",
+  "name": "Realme Buds Air 7 Pro",
+  "price_inr": 4999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "Wireless audio gear focused on everyday listening, calls, travel and noise isolation.",
+  "specifications": {
+    "type": "true-wireless",
+    "anc": true,
+    "battery_hours": 48,
+    "multipoint": true,
+    "codec": "LDAC",
+    "weight_g": 5.8
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Noise cancellation works well for commuting and office use, with comfortable sound for long listening sessions."
+    },
+    {
+      "rating": 5,
+      "text": "Battery life is a major strength, though microphone quality varies depending on the environment."
+    },
+    {
+      "rating": 3.5,
+      "text": "Comfort is good for most users, but fit can be subjective over long sessions."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d8"
+  },
+  "id": "mon-001",
+  "category": "monitor",
+  "brand": "LG",
+  "name": "LG UltraGear 27GS60F",
+  "price_inr": 16999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "1920x1080",
+    "refresh_hz": 180,
+    "panel": "IPS",
+    "hdr": false,
+    "usb_c": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4.5,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 4,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361d9"
+  },
+  "id": "mon-002",
+  "category": "monitor",
+  "brand": "Acer",
+  "name": "Acer Nitro VG271U",
+  "price_inr": 21999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "2560x1440",
+    "refresh_hz": 180,
+    "panel": "IPS",
+    "hdr": true,
+    "usb_c": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 5,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 4.5,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361da"
+  },
+  "id": "mon-003",
+  "category": "monitor",
+  "brand": "Dell",
+  "name": "Dell G2724D",
+  "price_inr": 24990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "2560x1440",
+    "refresh_hz": 165,
+    "panel": "IPS",
+    "hdr": true,
+    "usb_c": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 5,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 4,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361db"
+  },
+  "id": "mon-004",
+  "category": "monitor",
+  "brand": "Gigabyte",
+  "name": "Gigabyte M27Q",
+  "price_inr": 26999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "2560x1440",
+    "refresh_hz": 170,
+    "panel": "IPS",
+    "hdr": true,
+    "usb_c": true,
+    "kvm": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 3,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361dc"
+  },
+  "id": "mon-005",
+  "category": "monitor",
+  "brand": "BenQ",
+  "name": "BenQ PD2705Q",
+  "price_inr": 29990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "2560x1440",
+    "refresh_hz": 60,
+    "panel": "IPS",
+    "hdr": true,
+    "usb_c": true,
+    "kvm": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4.5,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 4,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361dd"
+  },
+  "id": "mon-006",
+  "category": "monitor",
+  "brand": "LG",
+  "name": "LG 27UP850",
+  "price_inr": 32999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "3840x2160",
+    "refresh_hz": 60,
+    "panel": "IPS",
+    "hdr": true,
+    "usb_c": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 4.5,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361de"
+  },
+  "id": "mon-007",
+  "category": "monitor",
+  "brand": "Samsung",
+  "name": "Samsung ViewFinity S7 32",
+  "price_inr": 34999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 32,
+    "resolution": "3840x2160",
+    "refresh_hz": 60,
+    "panel": "IPS",
+    "hdr": true,
+    "usb_c": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 3.5,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361df"
+  },
+  "id": "mon-008",
+  "category": "monitor",
+  "brand": "MSI",
+  "name": "MSI MAG 274QRF QD E2",
+  "price_inr": 29999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "2560x1440",
+    "refresh_hz": 180,
+    "panel": "Rapid IPS",
+    "hdr": true,
+    "usb_c": false
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4.5,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 4,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e0"
+  },
+  "id": "mon-009",
+  "category": "monitor",
+  "brand": "AOC",
+  "name": "AOC Q27G4",
+  "price_inr": 19999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "2560x1440",
+    "refresh_hz": 180,
+    "panel": "Fast IPS",
+    "hdr": true,
+    "usb_c": false
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4.5,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 3.5,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e1"
+  },
+  "id": "mon-010",
+  "category": "monitor",
+  "brand": "ASUS",
+  "name": "ASUS ProArt PA278QV",
+  "price_inr": 28999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop monitor suitable for productivity, programming, content creation or gaming depending on its specifications.",
+  "specifications": {
+    "size_in": 27,
+    "resolution": "2560x1440",
+    "refresh_hz": 75,
+    "panel": "IPS",
+    "hdr": false,
+    "usb_c": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Image quality is good for the price and the panel is suitable for everyday productivity."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming performance is strong when the high refresh rate is supported by the connected hardware."
+    },
+    {
+      "rating": 3.5,
+      "text": "The stand and ergonomics are acceptable, although some buyers may prefer a monitor arm."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e2"
+  },
+  "id": "key-001",
+  "category": "keyboard",
+  "brand": "Keychron",
+  "name": "Keychron K2 Pro",
+  "price_inr": 9999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "75%",
+    "wireless": true,
+    "bluetooth": true,
+    "hot_swappable": true,
+    "switch": "mechanical",
+    "backlight": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 4.5,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 4.5,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e3"
+  },
+  "id": "key-002",
+  "category": "keyboard",
+  "brand": "Keychron",
+  "name": "Keychron V1 Max",
+  "price_inr": 11999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "75%",
+    "wireless": true,
+    "bluetooth": true,
+    "hot_swappable": true,
+    "switch": "mechanical",
+    "backlight": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 5,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 4.5,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e4"
+  },
+  "id": "key-003",
+  "category": "keyboard",
+  "brand": "Royal Kludge",
+  "name": "Royal Kludge RK84",
+  "price_inr": 7499,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "75%",
+    "wireless": true,
+    "bluetooth": true,
+    "hot_swappable": true,
+    "switch": "mechanical",
+    "backlight": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 4.5,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 4,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e5"
+  },
+  "id": "key-004",
+  "category": "keyboard",
+  "brand": "Logitech",
+  "name": "Logitech MX Mechanical",
+  "price_inr": 13995,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "full-size",
+    "wireless": true,
+    "bluetooth": true,
+    "hot_swappable": false,
+    "switch": "mechanical",
+    "backlight": "white"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 4,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 3.5,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e6"
+  },
+  "id": "key-005",
+  "category": "keyboard",
+  "brand": "Logitech",
+  "name": "Logitech MX Keys S",
+  "price_inr": 10995,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "full-size",
+    "wireless": true,
+    "bluetooth": true,
+    "hot_swappable": false,
+    "switch": "scissor",
+    "backlight": "white"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 4.5,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 3,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e7"
+  },
+  "id": "key-006",
+  "category": "keyboard",
+  "brand": "Razer",
+  "name": "Razer BlackWidow V4",
+  "price_inr": 15999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "full-size",
+    "wireless": false,
+    "bluetooth": false,
+    "hot_swappable": false,
+    "switch": "mechanical",
+    "backlight": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 3.5,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 3.5,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e8"
+  },
+  "id": "key-007",
+  "category": "keyboard",
+  "brand": "Corsair",
+  "name": "Corsair K70 Core",
+  "price_inr": 9999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "full-size",
+    "wireless": false,
+    "bluetooth": false,
+    "hot_swappable": false,
+    "switch": "mechanical",
+    "backlight": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 4,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 4,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361e9"
+  },
+  "id": "key-008",
+  "category": "keyboard",
+  "brand": "Epomaker",
+  "name": "Epomaker TH80 Pro",
+  "price_inr": 8999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "75%",
+    "wireless": true,
+    "bluetooth": true,
+    "hot_swappable": true,
+    "switch": "mechanical",
+    "backlight": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 3.5,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 4,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ea"
+  },
+  "id": "key-009",
+  "category": "keyboard",
+  "brand": "NuPhy",
+  "name": "NuPhy Air75 V2",
+  "price_inr": 12999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "75%",
+    "wireless": true,
+    "bluetooth": true,
+    "hot_swappable": true,
+    "switch": "low-profile mechanical",
+    "backlight": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 4.5,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 4,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361eb"
+  },
+  "id": "key-010",
+  "category": "keyboard",
+  "brand": "Logitech",
+  "name": "Logitech G413 SE",
+  "price_inr": 6995,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A keyboard designed for desktop productivity and long typing sessions, with a focus on connectivity and typing feel.",
+  "specifications": {
+    "layout": "full-size",
+    "wireless": false,
+    "bluetooth": false,
+    "hot_swappable": false,
+    "switch": "mechanical",
+    "backlight": "white"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Typing feel is enjoyable for long sessions, especially for programming and writing."
+    },
+    {
+      "rating": 4,
+      "text": "Wireless connectivity is convenient, although Bluetooth behavior can depend on the host device."
+    },
+    {
+      "rating": 4.5,
+      "text": "The layout takes some adjustment if moving from a full-size keyboard."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ec"
+  },
+  "id": "mou-001",
+  "category": "mouse",
+  "brand": "Logitech",
+  "name": "Logitech MX Master 3S",
+  "price_inr": 8995,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": true,
+    "bluetooth": true,
+    "dpi": 8000,
+    "weight_g": 141,
+    "buttons": 7,
+    "silent_clicks": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 5,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 3,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ed"
+  },
+  "id": "mou-002",
+  "category": "mouse",
+  "brand": "Razer",
+  "name": "Razer DeathAdder V3",
+  "price_inr": 6999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": false,
+    "bluetooth": false,
+    "dpi": 30000,
+    "weight_g": 59,
+    "buttons": 6,
+    "silent_clicks": false
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 4.5,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 4,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ee"
+  },
+  "id": "mou-003",
+  "category": "mouse",
+  "brand": "Logitech",
+  "name": "Logitech G Pro X Superlight 2",
+  "price_inr": 14995,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": true,
+    "bluetooth": false,
+    "dpi": 32000,
+    "weight_g": 60,
+    "buttons": 5,
+    "silent_clicks": false
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 4,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 3,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ef"
+  },
+  "id": "mou-004",
+  "category": "mouse",
+  "brand": "Razer",
+  "name": "Razer Basilisk V3",
+  "price_inr": 5999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": false,
+    "bluetooth": false,
+    "dpi": 26000,
+    "weight_g": 101,
+    "buttons": 11,
+    "silent_clicks": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 4.5,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 3.5,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f0"
+  },
+  "id": "mou-005",
+  "category": "mouse",
+  "brand": "SteelSeries",
+  "name": "SteelSeries Rival 5",
+  "price_inr": 4999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": false,
+    "bluetooth": false,
+    "dpi": 18000,
+    "weight_g": 85,
+    "buttons": 9,
+    "silent_clicks": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 3.5,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 4,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f1"
+  },
+  "id": "mou-006",
+  "category": "mouse",
+  "brand": "Logitech",
+  "name": "Logitech Lift Vertical",
+  "price_inr": 7495,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": true,
+    "bluetooth": true,
+    "dpi": 4000,
+    "weight_g": 125,
+    "buttons": 6,
+    "silent_clicks": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 4,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 4.5,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f2"
+  },
+  "id": "mou-007",
+  "category": "mouse",
+  "brand": "Logitech",
+  "name": "Logitech M650",
+  "price_inr": 2995,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": true,
+    "bluetooth": true,
+    "dpi": 4000,
+    "weight_g": 101,
+    "buttons": 5,
+    "silent_clicks": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 5,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 4,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f3"
+  },
+  "id": "mou-008",
+  "category": "mouse",
+  "brand": "Razer",
+  "name": "Razer Orochi V2",
+  "price_inr": 4499,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": true,
+    "bluetooth": true,
+    "dpi": 18000,
+    "weight_g": 60,
+    "buttons": 6,
+    "silent_clicks": false
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 4.5,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 4.5,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f4"
+  },
+  "id": "mou-009",
+  "category": "mouse",
+  "brand": "Glorious",
+  "name": "Glorious Model O 2",
+  "price_inr": 5999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": false,
+    "bluetooth": false,
+    "dpi": 26000,
+    "weight_g": 59,
+    "buttons": 6,
+    "silent_clicks": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 4,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 4,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f5"
+  },
+  "id": "mou-010",
+  "category": "mouse",
+  "brand": "HyperX",
+  "name": "HyperX Pulsefire Haste 2",
+  "price_inr": 4999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A desktop mouse designed for productivity or gaming, depending on its sensor, weight and button configuration.",
+  "specifications": {
+    "wireless": false,
+    "bluetooth": false,
+    "dpi": 26000,
+    "weight_g": 53,
+    "buttons": 6,
+    "silent_clicks": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Tracking is accurate and the shape is comfortable for extended use."
+    },
+    {
+      "rating": 4.5,
+      "text": "The buttons and scroll wheel feel good, although the ideal shape depends heavily on hand size."
+    },
+    {
+      "rating": 4.5,
+      "text": "Wireless models are convenient, while wired models avoid battery management."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f6"
+  },
+  "id": "ssd-001",
+  "category": "ssd",
+  "brand": "Samsung",
+  "name": "Samsung 990 Pro 1TB",
+  "price_inr": 8999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "PCIe 4.0 NVMe",
+    "read_mbps": 7450,
+    "write_mbps": 6900,
+    "dram": true,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 4.5,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 4,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f7"
+  },
+  "id": "ssd-002",
+  "category": "ssd",
+  "brand": "Western Digital",
+  "name": "WD Black SN850X 1TB",
+  "price_inr": 8499,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "PCIe 4.0 NVMe",
+    "read_mbps": 7300,
+    "write_mbps": 6300,
+    "dram": true,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 3.5,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 3,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f8"
+  },
+  "id": "ssd-003",
+  "category": "ssd",
+  "brand": "Crucial",
+  "name": "Crucial T500 1TB",
+  "price_inr": 7999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "PCIe 4.0 NVMe",
+    "read_mbps": 7400,
+    "write_mbps": 7000,
+    "dram": true,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 4,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 3.5,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361f9"
+  },
+  "id": "ssd-004",
+  "category": "ssd",
+  "brand": "Kingston",
+  "name": "Kingston KC3000 1TB",
+  "price_inr": 7499,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "PCIe 4.0 NVMe",
+    "read_mbps": 7000,
+    "write_mbps": 6000,
+    "dram": true,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 4,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 4.5,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361fa"
+  },
+  "id": "ssd-005",
+  "category": "ssd",
+  "brand": "Western Digital",
+  "name": "WD Blue SN580 1TB",
+  "price_inr": 5999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "PCIe 4.0 NVMe",
+    "read_mbps": 4150,
+    "write_mbps": 4150,
+    "dram": false,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 3.5,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 4,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361fb"
+  },
+  "id": "ssd-006",
+  "category": "ssd",
+  "brand": "Crucial",
+  "name": "Crucial P3 Plus 1TB",
+  "price_inr": 5299,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "PCIe 4.0 NVMe",
+    "read_mbps": 5000,
+    "write_mbps": 4200,
+    "dram": false,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 4.5,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 3.5,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361fc"
+  },
+  "id": "ssd-007",
+  "category": "ssd",
+  "brand": "Samsung",
+  "name": "Samsung 870 EVO 1TB",
+  "price_inr": 7999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "SATA",
+    "read_mbps": 560,
+    "write_mbps": 530,
+    "dram": true,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 5,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 4,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361fd"
+  },
+  "id": "ssd-008",
+  "category": "ssd",
+  "brand": "SanDisk",
+  "name": "SanDisk SSD Plus 1TB",
+  "price_inr": 5499,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 1000,
+    "interface": "SATA",
+    "read_mbps": 535,
+    "write_mbps": 450,
+    "dram": false,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 4,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 4,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361fe"
+  },
+  "id": "ssd-009",
+  "category": "ssd",
+  "brand": "Lexar",
+  "name": "Lexar NM790 2TB",
+  "price_inr": 10999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 2000,
+    "interface": "PCIe 4.0 NVMe",
+    "read_mbps": 7400,
+    "write_mbps": 6500,
+    "dram": false,
+    "heatsink": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 4.5,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 4,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce6457540361ff"
+  },
+  "id": "ssd-010",
+  "category": "ssd",
+  "brand": "Crucial",
+  "name": "Crucial T705 2TB",
+  "price_inr": 19999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A storage drive intended for PC upgrades, offering a balance of capacity, interface performance and endurance.",
+  "specifications": {
+    "capacity_gb": 2000,
+    "interface": "PCIe 5.0 NVMe",
+    "read_mbps": 14500,
+    "write_mbps": 12700,
+    "dram": true,
+    "heatsink": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Real-world performance is fast for application launches and large file transfers."
+    },
+    {
+      "rating": 4.5,
+      "text": "Sustained workloads can be affected by thermal throttling depending on airflow and workload duration."
+    },
+    {
+      "rating": 3.5,
+      "text": "It is a good upgrade for systems moving from SATA storage to NVMe."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036200"
+  },
+  "id": "rou-001",
+  "category": "router",
+  "brand": "TP-Link",
+  "name": "TP-Link Archer AX55",
+  "price_inr": 7499,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 3000,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 4,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 4,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036201"
+  },
+  "id": "rou-002",
+  "category": "router",
+  "brand": "TP-Link",
+  "name": "TP-Link Archer AX72",
+  "price_inr": 10999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 5400,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 5,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 4,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036202"
+  },
+  "id": "rou-003",
+  "category": "router",
+  "brand": "ASUS",
+  "name": "ASUS RT-AX58U",
+  "price_inr": 9999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 3000,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 4.5,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 4,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036203"
+  },
+  "id": "rou-004",
+  "category": "router",
+  "brand": "ASUS",
+  "name": "ASUS RT-AX86U Pro",
+  "price_inr": 18999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 5700,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 4,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 3.5,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036204"
+  },
+  "id": "rou-005",
+  "category": "router",
+  "brand": "Netgear",
+  "name": "Netgear RAX50",
+  "price_inr": 11999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 5400,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 4,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 3,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036205"
+  },
+  "id": "rou-006",
+  "category": "router",
+  "brand": "TP-Link",
+  "name": "TP-Link Archer BE230",
+  "price_inr": 9999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 7",
+    "max_speed_mbps": 3600,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 4.5,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 3.5,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036206"
+  },
+  "id": "rou-007",
+  "category": "router",
+  "brand": "TP-Link",
+  "name": "TP-Link Archer BE550",
+  "price_inr": 16999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 7",
+    "max_speed_mbps": 9200,
+    "bands": 3,
+    "lan_ports": 5,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 4,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 3,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036207"
+  },
+  "id": "rou-008",
+  "category": "router",
+  "brand": "Tenda",
+  "name": "Tenda RX27 Pro",
+  "price_inr": 8999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 5700,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 5,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 3,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036208"
+  },
+  "id": "rou-009",
+  "category": "router",
+  "brand": "D-Link",
+  "name": "D-Link DIR-X3000Z",
+  "price_inr": 6999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 3000,
+    "bands": 2,
+    "lan_ports": 4,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 3.5,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 3,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036209"
+  },
+  "id": "rou-010",
+  "category": "router",
+  "brand": "Xiaomi",
+  "name": "Xiaomi Router AX3200",
+  "price_inr": 4999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A home or small-office Wi-Fi router designed for Indian broadband connections and modern wireless devices.",
+  "specifications": {
+    "wifi": "Wi-Fi 6",
+    "max_speed_mbps": 3200,
+    "bands": 2,
+    "lan_ports": 3,
+    "gigabit": true,
+    "mesh": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Wireless coverage is good for a typical apartment, although walls and interference can affect results."
+    },
+    {
+      "rating": 3.5,
+      "text": "Setup is straightforward and the router handles multiple everyday devices well."
+    },
+    {
+      "rating": 4.5,
+      "text": "Advanced users may want more detailed controls than the standard mobile/web interface provides."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403620a"
+  },
+  "id": "tv-001",
+  "category": "tv",
+  "brand": "Sony",
+  "name": "Sony Bravia 3 55",
+  "price_inr": 74990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "LED",
+    "refresh_hz": 60,
+    "dolby_vision": true,
+    "hdmi_2_1": false
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 4,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403620b"
+  },
+  "id": "tv-002",
+  "category": "tv",
+  "brand": "LG",
+  "name": "LG OLED B4 55",
+  "price_inr": 99990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "OLED",
+    "refresh_hz": 120,
+    "dolby_vision": true,
+    "hdmi_2_1": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 4.5,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 3.5,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403620c"
+  },
+  "id": "tv-003",
+  "category": "tv",
+  "brand": "Samsung",
+  "name": "Samsung QN90D 55",
+  "price_inr": 109990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "Mini LED",
+    "refresh_hz": 144,
+    "dolby_vision": false,
+    "hdmi_2_1": true
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 4.5,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 4.5,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403620d"
+  },
+  "id": "tv-004",
+  "category": "tv",
+  "brand": "TCL",
+  "name": "TCL C755 55",
+  "price_inr": 59990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "Mini LED",
+    "refresh_hz": 144,
+    "dolby_vision": true,
+    "hdmi_2_1": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 4,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403620e"
+  },
+  "id": "tv-005",
+  "category": "tv",
+  "brand": "Hisense",
+  "name": "Hisense U7N 55",
+  "price_inr": 54990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "Mini LED",
+    "refresh_hz": 144,
+    "dolby_vision": true,
+    "hdmi_2_1": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 4,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 3,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403620f"
+  },
+  "id": "tv-006",
+  "category": "tv",
+  "brand": "Xiaomi",
+  "name": "Xiaomi X Pro QLED 55",
+  "price_inr": 49999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "QLED",
+    "refresh_hz": 120,
+    "dolby_vision": true,
+    "hdmi_2_1": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 5,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036210"
+  },
+  "id": "tv-007",
+  "category": "tv",
+  "brand": "OnePlus",
+  "name": "OnePlus Q2 Pro 55",
+  "price_inr": 59999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "QLED",
+    "refresh_hz": 120,
+    "dolby_vision": true,
+    "hdmi_2_1": true
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 4.5,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036211"
+  },
+  "id": "tv-008",
+  "category": "tv",
+  "brand": "Vu",
+  "name": "Vu Masterpiece Glo 55",
+  "price_inr": 64990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "QLED",
+    "refresh_hz": 120,
+    "dolby_vision": true,
+    "hdmi_2_1": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 5,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 3,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036212"
+  },
+  "id": "tv-009",
+  "category": "tv",
+  "brand": "TCL",
+  "name": "TCL C655 50",
+  "price_inr": 42990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 50,
+    "resolution": "4K",
+    "panel": "QLED",
+    "refresh_hz": 60,
+    "dolby_vision": true,
+    "hdmi_2_1": false
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 5,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 3,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036213"
+  },
+  "id": "tv-010",
+  "category": "tv",
+  "brand": "Samsung",
+  "name": "Samsung Q60D 55",
+  "price_inr": 69990,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A smart television aimed at Indian living rooms, with an emphasis on picture quality, streaming and gaming features.",
+  "specifications": {
+    "size_in": 55,
+    "resolution": "4K",
+    "panel": "QLED",
+    "refresh_hz": 60,
+    "dolby_vision": false,
+    "hdmi_2_1": false
+  },
+  "reviews": [
+    {
+      "rating": 3.5,
+      "text": "Picture quality is impressive for streaming and general television viewing."
+    },
+    {
+      "rating": 4.5,
+      "text": "The built-in speakers are adequate for casual viewing, but a soundbar improves dialogue and bass."
+    },
+    {
+      "rating": 4,
+      "text": "Gaming features are useful when paired with a compatible console or PC."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036214"
+  },
+  "id": "tab-001",
+  "category": "tablet",
+  "brand": "Samsung",
+  "name": "Samsung Galaxy Tab S10 FE",
+  "price_inr": 49999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 10.9,
+    "refresh_hz": 90,
+    "battery_mah": 8000,
+    "stylus_support": true,
+    "cellular": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036215"
+  },
+  "id": "tab-002",
+  "category": "tablet",
+  "brand": "OnePlus",
+  "name": "OnePlus Pad 2",
+  "price_inr": 39999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 12.1,
+    "refresh_hz": 144,
+    "battery_mah": 9510,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036216"
+  },
+  "id": "tab-003",
+  "category": "tablet",
+  "brand": "Xiaomi",
+  "name": "Xiaomi Pad 7",
+  "price_inr": 27999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 11.2,
+    "refresh_hz": 144,
+    "battery_mah": 8850,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036217"
+  },
+  "id": "tab-004",
+  "category": "tablet",
+  "brand": "Lenovo",
+  "name": "Lenovo Idea Tab Pro",
+  "price_inr": 29999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 12.7,
+    "refresh_hz": 144,
+    "battery_mah": 10200,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036218"
+  },
+  "id": "tab-005",
+  "category": "tablet",
+  "brand": "Apple",
+  "name": "Apple iPad Air 11 M3",
+  "price_inr": 59900,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 11,
+    "refresh_hz": 60,
+    "battery_mah": 7606,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce645754036219"
+  },
+  "id": "tab-006",
+  "category": "tablet",
+  "brand": "Samsung",
+  "name": "Samsung Galaxy Tab A9+",
+  "price_inr": 22999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 11,
+    "refresh_hz": 90,
+    "battery_mah": 7040,
+    "stylus_support": false,
+    "cellular": true
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403621a"
+  },
+  "id": "tab-007",
+  "category": "tablet",
+  "brand": "Xiaomi",
+  "name": "Redmi Pad Pro",
+  "price_inr": 24999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 12.1,
+    "refresh_hz": 120,
+    "battery_mah": 10000,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403621b"
+  },
+  "id": "tab-008",
+  "category": "tablet",
+  "brand": "Realme",
+  "name": "Realme Pad 2 Lite",
+  "price_inr": 15999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_in": 10.95,
+    "refresh_hz": 90,
+    "battery_mah": 8300,
+    "stylus_support": false,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403621c"
+  },
+  "id": "tab-009",
+  "category": "tablet",
+  "brand": "Motorola",
+  "name": "Motorola Tab G70",
+  "price_inr": 18999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "display_in": 11,
+    "refresh_hz": 90,
+    "battery_mah": 7700,
+    "stylus_support": false,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a84769582ce64575403621d"
+  },
+  "id": "tab-010",
+  "category": "tablet",
+  "brand": "Honor",
+  "name": "Honor Pad 9",
+  "price_inr": 22999,
+  "availability": "in_stock",
+  "market": "India",
+  "description": "A tablet aimed at Indian buyers for media consumption, reading, productivity and everyday computing.",
+  "specifications": {
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_in": 12.1,
+    "refresh_hz": 120,
+    "battery_mah": 8300,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "text": "The large display is useful for media consumption, reading and productivity, while battery life is generally good."
+    },
+    {
+      "rating": 4,
+      "text": "Performance is suitable for everyday apps and multitasking, although demanding games can expose limitations."
+    },
+    {
+      "rating": 3.5,
+      "text": "Accessory support is useful for productivity, but buyers should check whether the keyboard or stylus is included."
+    }
+  ],
+  "seller": {
+    "type": "marketplace_synthetic",
+    "region": "India"
+  }
+}]
