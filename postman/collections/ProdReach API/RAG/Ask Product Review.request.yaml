@@ -1,0 +1,15 @@
+$kind: http-request
+method: POST
+url: '{{baseUrl}}/api/rag/ask'
+order: 1000
+description: 'Ask a question about a product based on its customer reviews using RAG (Retrieval-Augmented Generation). Retrieves the top 3 most relevant review chunks and uses an LLM to answer the question. Returns the answer and retrieved evidence with similarity scores.'
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: |-
+    {
+      "product_id": "sma-001",
+      "question": "Is the battery life good for heavy usage?"
+    }

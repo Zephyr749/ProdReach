@@ -1,0 +1,14 @@
+$kind: http-request
+method: POST
+url: '{{baseUrl}}/api/requirements/extract'
+order: 1000
+description: 'Extracts structured product requirements from a natural language query. Returns a ProdRequirements object with category, budget, hard_requirements, preferences, use_cases, and avoid fields.'
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: |-
+    {
+      "query": "I need a smartphone under 20000 INR with good camera and long battery life"
+    }

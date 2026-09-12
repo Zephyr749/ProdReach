@@ -1,0 +1,14 @@
+$kind: http-request
+method: POST
+url: '{{baseUrl}}/api/products/search'
+order: 1000
+description: 'Searches for candidate products matching a natural language query. Internally extracts requirements and queries the database. Returns the original query, extracted requirements, total candidate count, and list of matching products.'
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: |-
+    {
+      "query": "I need a smartphone under 20000 INR with good camera and long battery life"
+    }

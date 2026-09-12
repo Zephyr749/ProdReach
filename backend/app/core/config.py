@@ -9,8 +9,9 @@ class Settings(BaseSettings):
     
     # ai configs
     openai_api_key: str
-    model_name: str
     openai_api_base_url: str
+    base_model_name: str
+    agent_model_name: str
     text_embedding_model_name: str
     
     # database config

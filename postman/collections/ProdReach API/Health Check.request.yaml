@@ -1,0 +1,5 @@
+$kind: http-request
+method: GET
+url: '{{baseUrl}}/'
+order: 1000
+description: 'Root health check endpoint. Returns {"message": "Hello World"}.'

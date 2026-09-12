@@ -50,7 +50,7 @@ Rules:
 
 def extract_requirements(query: str) -> ProdRequirements | None:
     response= client.chat.completions.parse(
-        model=app_settings.model_name,
+        model=app_settings.base_model_name,
         messages=[
             {
                 "role": "system",

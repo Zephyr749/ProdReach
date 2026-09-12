@@ -1,0 +1,6 @@
+$kind: collection
+name: ProdReach API
+description: 'API collection for ProdReach — an AI-powered product research and recommendation platform. Includes endpoints for requirement extraction, product search, AI recommendations, and RAG-based review Q&A.'
+variables:
+  - key: baseUrl
+    value: 'http://localhost:4000'

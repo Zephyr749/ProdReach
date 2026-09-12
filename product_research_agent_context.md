@@ -509,7 +509,7 @@ The immediate debugging strategy is to temporarily remove structured output and 
 
 ```python
 response = client.responses.create(
-    model=settings.model_name,
+    model=settings.base_model_name,
     instructions=SYSTEM_PROMPT,
     input=query,
 )

@@ -62,7 +62,7 @@ async def ask_questions(top_reviews: List[tuple[ReviewChunk, float]], question: 
         """
         
     response = client.chat.completions.create(
-        model= app_settings.model_name,
+        model= app_settings.base_model_name,
         messages= [{"role": "user", "content": prompt}],
         # temperature= 0.0
     )
