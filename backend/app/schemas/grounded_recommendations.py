@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
-from typing import List
+from typing import List, Optional
 
 
 class GroundedClaim(BaseModel):
@@ -20,3 +20,10 @@ class GroundedRecommendationResponse(BaseModel):
     top_pick_id: str
     recommendation_summary: str
     candidates: List[GroundedCandidate]
+    
+    
+class ReviewEvidence(BaseModel):
+    product_id: str = Field(..., description="ID of the product this review belongs to")
+    text: str = Field(..., description="The relevant review snippet")
+    rating: Optional[float | int] = Field(default=None, description="Customer star rating (e.g. 5, 4.5)")
+    similarity_score: float = Field(..., description="Cosine similarity score from vector search (e.g. 0.824)")

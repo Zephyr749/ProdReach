@@ -48,21 +48,21 @@ Rules:
    - Normalize the negative target into a clean noun phrase. Do NOT put positive requirements here.
 """
 
-def extract_requirements(query: str) -> ProdRequirements | None:
-    response= client.chat.completions.parse(
-        model=app_settings.base_model_name,
-        messages=[
-            {
-                "role": "system",
-                "content": SYSTEM_PROMPT
-            },
-            {
-                "role": "user",
-                "content": query
-            }
-        ],
-        response_format=ProdRequirements,
-        # temperature=0.0
-    )
-    
-    return response.choices[0].message.parsed
+def extract_requirements(query: str) -> ProdRequirements:
+   response= client.chat.completions.parse(
+      model=app_settings.base_model_name,
+      messages=[
+         {
+               "role": "system",
+               "content": SYSTEM_PROMPT
+         },
+         {
+               "role": "user",
+               "content": query
+         }
+      ],
+      response_format=ProdRequirements,
+      # temperature=0.0
+   )
+   
+   return response.choices[0].message.parsed or ProdRequirements()
