@@ -1,14 +1,13 @@
 $kind: http-request
 method: POST
-url: '{{baseUrl}}/api/recommendations/generate'
+url: "{{baseUrl}}/api/recommendations/generate"
 order: 1000
-description: 'Generates AI-powered product recommendations for a shopping query. Extracts requirements, fetches candidates, and uses an LLM to rank and compare them. Returns a top pick, ranked candidates with pros/cons, a summary, and trade-off analysis.'
+description: Generates AI-powered product recommendations for a shopping query. Extracts requirements, fetches candidates, and uses an LLM to rank and compare them. Returns a top pick, ranked candidates with pros/cons, a summary, and trade-off analysis.
 headers:
-  - key: Content-Type
-    value: application/json
+  Content-Type: application/json
 body:
   type: json
   content: |-
     {
-      "query": "I need a smartphone under 20000 INR with good camera and long battery life"
+      "query": "I need a smartphone under 50000 INR with good camera and long battery life"
     }

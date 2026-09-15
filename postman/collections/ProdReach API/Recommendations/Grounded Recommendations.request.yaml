@@ -1,0 +1,10 @@
+$kind: http-request
+url: "{{baseUrl}}/api/recommendations/generate"
+method: POST
+body:
+  type: json
+  content: |-
+    {
+      "query": "I need a smartphone under 50000 INR with good camera and long battery life"
+    }
+order: 3438733296664811
